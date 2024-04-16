@@ -2,6 +2,10 @@
 
 > A space where I can share the recordings and the presentations of the talks I've delivered with my partners-in-crime.
 
+- Building High-Performing Platform Teams: A Practical Guide with Real-World Examples
+
+  [Platform Engineering Meetup, April 2024](https://www.youtube.com/live/vJ_vzucx3Bw?si=gTchcvwuswmt-k0v)
+
 - Platform as a Product: Stories from the Field
 
   [WtFisSRE, April 2023](https://www.youtube.com/watch?v=6HYYlftHU-4&themeRefresh=1)
