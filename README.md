@@ -2,6 +2,22 @@
 
 > A space where I can share the recordings and the presentations of the talks I've delivered with my partners-in-crime.
 
+- How About Cognitive Load of Platform Teams?
+  
+  [AllDayDevOps, October 2024](https://www.alldaydevops.com/)
+
+- Building scalable platforms: Lessons from embedded systems to finance
+  
+  [Platform Engineering Meetup, October 2024]()
+  
+- Principles of Team Topologies Applied to Platform Engineering.
+
+  [Conf42 Platform Engineering, September 2024]()
+
+- Building High-Performing Platform Teams
+
+  [FastflowConf, September 2024](https://www.youtube.com/watch?feature=shared&v=ny9k3pecYCw)
+
 - Building High-Performing Platform Teams: A Practical Guide with Real-World Examples
 
   [Platform Engineering Meetup, April 2024](https://www.youtube.com/live/vJ_vzucx3Bw?si=gTchcvwuswmt-k0v)
