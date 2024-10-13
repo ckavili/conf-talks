@@ -16,7 +16,7 @@
 
 - Building High-Performing Platform Teams
 
-  [FastflowConf, September 2024](https://www.youtube.com/watch?feature=shared&v=ny9k3pecYCw)
+  [FastFlowConf, September 2024](https://www.youtube.com/watch?feature=shared&v=ny9k3pecYCw)
 
 - Building High-Performing Platform Teams: A Practical Guide with Real-World Examples
 
