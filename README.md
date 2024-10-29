@@ -8,7 +8,7 @@
 
 - Building scalable platforms: Lessons from embedded systems to finance
   
-  [Platform Engineering Meetup, October 2024]()
+  [Platform Engineering Meetup, October 2024](https://www.youtube.com/watch?v=v106FuYvcDM)
   
 - Principles of Team Topologies Applied to Platform Engineering.
 
