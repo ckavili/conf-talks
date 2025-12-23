@@ -3,24 +3,31 @@
 > A space where I can share the recordings and the presentations of the talks I've delivered with my partners-in-crime.
 
 - Over 9000 models! How to reliably scale MLOps
+
   [Red Hat Webinar, December 2025](https://www.redhat.com/en/events/webinar/over-9000-models-how-to-reliably-scale-mlops)
 
 - GitOps and KRO: A New Way to Control Cloud Infra
+
   [GitOpsCon NA, October 2025](https://www.youtube.com/watch?v=pfw7xFh1g9U)
 
 - YAML to Intelligence:Platform Engineering for Al Era
+
   [DevOpsDays Istanbul 2025](https://www.youtube.com/watch?v=vzMLl0V6tfo)
 
 - From YAML to Intelligence: Evolving Platform Engineering for the AI Era
+
   [ContainerDays Hamburg, September 2025](https://www.youtube.com/watch?v=lhQ-zqGvc9A)
 
 - The Seven Deadly Sins of GitOps
+
   [GitOpsCon Europe 2025, May 2025](https://community.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-gitopscon-europe-2025-virtual)
 
 - Platform engineering meets GenAI: What changes, what stays
+
   [Pltform Engineering.org event, May 2025](https://platformengineering.org/events/platform-engineering-meets-genai-what-changes-what-stays-2025-05-13)
 
 - Bridging DevOps and MLOps: A Practitioner’s Guide
+
   [CNCF Istanbul, October 2024](https://community.cncf.io/events/details/cncf-istanbul-presents-bridging-devops-and-mlops-a-practitioners-guide)
 
 - How About Cognitive Load of Platform Teams?
